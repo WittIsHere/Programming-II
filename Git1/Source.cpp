@@ -7,8 +7,8 @@
 int main()
 {
 
-	printf("Witt says HI");
-
+	printf("Witt says HI\n");
+	printf("SECOND COMMMMMITTTT\n");
 
 	system("pause");
 	return 0;
